@@ -29,7 +29,7 @@ Your journaling buttons will appear at the bottom of your screen.
 
 ## Related Resources
 
-- [Mental Health/Therapy Lorebook](https://www.reddit.com/r/SillyTavernAI/comments/1omroug/comprehensive_therapy_mental_health_lorebook_126/)
+- [Mental Health/Therapy Lorebook](https://github.com/cha1latte/mental-health-lorebook)
 - [Universal Quick Reply Creator](https://docs.google.com/document/d/1CfWHATYyDH5HYw_7vFKtax-2fCiE-3hnmAGOtyJWTkM/edit?usp=sharing) (used to create this set)
 
 ---
